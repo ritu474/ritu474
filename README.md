@@ -4,6 +4,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 </h2>
 
+<h2 align="left">About Me :</h2>
+🔭 I'm currently learning about AI.<br> A self taught backend learner.<br> Ask me about JAVA and ORACLE-SQL.
+
 ###
 
 <h2 align="left">Tech Stack :</h2>
