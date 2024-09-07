@@ -1,6 +1,5 @@
-![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/Color%20Matte.gif)
-<h1 align="center">Hi 👋, I'm Dipta Karar</h1>
-<h3 align="center">An Aspiring Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Rituparna Debnath</h1>
+<h3 align="center">An Aspiring Backend Learner</h3>
 <h2 align="center">Welcome to my Profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 </h2>
