@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! <br>I'm Ritu<br>An Aspiring Backend Learner</h2>
+![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/Color%20Matte.gif)
+<h1 align="center">Hi 👋, I'm Dipta Karar</h1>
+<h3 align="center">An Aspiring Full Stack Developer</h3>
+<h2 align="center">Welcome to my Profile
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+</h2>
+<p align="center">
+    <a href="https://github.com/Dipta1102/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;Frontend+Developer;A+Quick+Learner"></a>
+</p>
 
 ###
 
