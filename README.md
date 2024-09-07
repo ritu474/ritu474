@@ -5,7 +5,7 @@
 </h2>
 
 <h2 align="left">About Me :</h2>
-🔭 I'm currently learning about AI.<br> A self taught backend learner.<br> Ask me about JAVA and ORACLE-SQL.
+🔭 I'm currently learning about AI.<br> 👨‍💻 A self taught backend learner.<br>💬 Ask me about JAVA and ORACLE-SQL.
 
 ###
 
